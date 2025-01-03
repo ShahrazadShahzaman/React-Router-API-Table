@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.cc3e303e.css",
-    "main.js": "/static/js/main.7689ae90.js",
-    "index.html": "/index.html",
-    "main.cc3e303e.css.map": "/static/css/main.cc3e303e.css.map",
-    "main.7689ae90.js.map": "/static/js/main.7689ae90.js.map"
+    "main.css": "/React-Router-API-Table/static/css/main.cc3e303e.css",
+    "main.js": "/React-Router-API-Table/static/js/main.f00e0129.js",
+    "index.html": "/React-Router-API-Table/index.html",
+    "main.cc3e303e.css.map": "/React-Router-API-Table/static/css/main.cc3e303e.css.map",
+    "main.f00e0129.js.map": "/React-Router-API-Table/static/js/main.f00e0129.js.map"
   },
   "entrypoints": [
     "static/css/main.cc3e303e.css",
-    "static/js/main.7689ae90.js"
+    "static/js/main.f00e0129.js"
   ]
 }
